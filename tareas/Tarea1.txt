@@ -1,0 +1,37 @@
+¿Qué es JavaFX?
+
+JavaFX está basado en Java. La plataforma JavaFX permite a los desarrolladores de la aplicación crear e implementar fácilmente aplicaciones de Internet enriquecidas (RIA) que se comportan de la misma forma en distintas plataformas. JavaFX amplía la potencia de Java permitiendo a los desarrolladores utilizar cualquier biblioteca de Java en aplicaciones JavaFX. Los desarrolladores pueden ampliar sus capacidades en Java y utilizar la tecnología de presentación que JavaFX proporciona para crear experiencias visuales que resulten atractivas. 
+
+Como se Instala JavaFX?
+
+to Install the Standalone JavaFX SDK
+
+The standalone JavaFX SDK should only be installed if you are using a JDK older than 7u2.
+
+
+To install the JavaFX SDK: 
+
+
+Verify your system requirements.
+
+Go to the JavaFX Downloads page.
+
+Find the JavaFX SDK downloads, click the link for your operating system, and follow the prompts to save the executable file.
+
+Run the .exe file and complete the steps in the installation wizard.
+
+The default installation directory for the SDK is C:\Program Files\Oracle\JavaFX 2.0 SDK. See JavaFX Samples for the directories and content.
+
+The default installation directory for the Runtime is C:\Program Files\Oracle\JavaFX 2.0 Runtime.
+
+
+Características principales de JavaFX:
+
+    Permite a los desarrolladores integrar gráficos vectoriales, animación, sonido y activos web de vídeo en una aplicación interactiva, completa y atractiva
+    Amplía la tecnología Java permitiendo el uso de cualquier biblioteca de Java en una aplicación JavaFX
+    Permite mantener un eficaz flujo de trabajo entre diseñador y desarrollador en el que los diseñadores pueden trabajar en las herramientas que deseen mientras colaboran con los desarrolladores
+
+
+What Can I Build with JavaFX?
+
+With JavaFX, you can build many types of applications. Typically, they are network-aware applications that are deployed across multiple platforms and display information in a high-performance modern user interface that features audio, video, graphics, and animation.
